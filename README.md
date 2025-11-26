@@ -227,7 +227,7 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT
-
+<img width="1884" height="1144" alt="Screenshot 2025-11-24 103450" src="https://github.com/user-attachments/assets/ad9166c2-2a80-4c61-9e0c-c5e561034923" />
 <img width="1911" height="1118" alt="Screenshot 2025-11-24 103508" src="https://github.com/user-attachments/assets/765e5dca-1e2b-4535-8299-c497e02c8f8d" />
 <img width="1911" height="1113" alt="Screenshot 2025-11-24 103521" src="https://github.com/user-attachments/assets/94b7aa95-ff84-4817-ae39-6c2a540553f5" />
 <img width="1918" height="1052" alt="Screenshot 2025-11-24 104046" src="https://github.com/user-attachments/assets/2e8ba082-4f11-4f32-b0e5-aed34456b794" />
